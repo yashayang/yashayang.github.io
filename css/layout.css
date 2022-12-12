@@ -70,6 +70,7 @@ a:focus, a:hover, a:active {
   font-weight: 600;
   font-family: Hind, sans-serif;
   text-transform: uppercase;
+  color: #17bed2;
 }
 
 .link:after {
@@ -363,7 +364,7 @@ fieldset[disabled] .btn-theme {
 
 .promo-block .promo-block-img-wrap {
   position: relative;
-  height: 400px;
+  height: 380px;
 }
 
 @media (max-width: 768px) {
