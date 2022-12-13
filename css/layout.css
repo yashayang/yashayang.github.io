@@ -52,6 +52,10 @@ li a {
   color: #515769;
 }
 
+.blue-y {
+  color: #17bed2;
+}
+
 a {
   font-family: Hind, sans-serif;
   color: #81848f;
@@ -307,7 +311,7 @@ fieldset[disabled] .btn-theme {
 
 .social-icons:hover {
   color: #fff;
-  background: #515769;
+  background: #17bed2;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
