@@ -283,23 +283,14 @@ fieldset[disabled] .btn-theme {
   box-shadow: none;
   height: 3px;
 }
-/* .progress-box {
-  background-color: #17bed2;
-}
-
-.progress-box .skills-icon {
-  font-size: 60px;
-  color: #17bed2;
+.skills-box {
   background-color: #515769;
-} */
-.progress-box > h1 > i{
-  color: #17bed2;
-  padding: 10px;
+  font-size: 50px;
 }
 
 .devicon-javascript-plain {
   color: #17bed2;
-  padding: 10px;
+  margin: 10px;
 }
 
 .progress-box .progress-bar {
