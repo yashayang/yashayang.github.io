@@ -774,14 +774,11 @@ fieldset[disabled] .btn-theme {
 /*------------------------------------------------------------------
     [Swiper Slider]
 ------------------------------------------------------------------*/
-.swiper-slider {
+/* .swiper-slider {
   position: relative;
-  /* width: 50%;
-  height: 50%; */
-  /* overflow: hidden; */
-  width: 100px;
-  margin-right: 0px;
-  display: inline !important;
+  width: 50%;
+  height: 50%;
+  overflow: hidden;
 }
 
 .swiper-clients-img {
@@ -794,7 +791,7 @@ fieldset[disabled] .btn-theme {
   transition-duration: 200ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
-}
+} */
 
 /* .swiper-clients-img:hover {
   opacity: .8;
