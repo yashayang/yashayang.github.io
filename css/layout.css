@@ -847,6 +847,7 @@ fieldset[disabled] .btn-theme {
 
 .skills-icon {
   width: 50px;
+  text-decoration: none;
 }
 
 .skills-icon-img {
