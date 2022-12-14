@@ -838,13 +838,18 @@ fieldset[disabled] .btn-theme {
 }
 
 /*------------------------------------------------------------------
-    [Swiper Slider]
+    [skills]
 ------------------------------------------------------------------*/
+
+.skills-wrapper {
+  text-decoration: none;
+}
+
 .skills-icon {
   width: 50px;
 }
 
-img.skills-icon-img {
+.skills-icon-img {
   width: 50px;
 }
 
