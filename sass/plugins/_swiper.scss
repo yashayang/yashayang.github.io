@@ -5,12 +5,12 @@
 .swiper-slider {
 	@include position(relative);
 	@include size(100%);
-	overflow: hidden;
+	// overflow: hidden;
 }
 
 .swiper-clients-img {
 	display: block;
-	@include size(130px, auto);
+	@include size(80px, auto);
 	margin: 0 auto;
 	opacity: 1;
 	cursor: pointer;

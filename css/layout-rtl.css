@@ -778,12 +778,12 @@ fieldset[disabled] .btn-theme {
   position: relative;
   width: 100%;
   height: 100%;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .swiper-clients-img {
   display: block;
-  width: 190px;
+  width: 100px;
   height: auto;
   margin: 0 auto;
   opacity: 1;
