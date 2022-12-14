@@ -284,6 +284,11 @@ fieldset[disabled] .btn-theme {
   height: 3px;
 }
 
+.progress-box .skills-icon {
+  font-size: 60px;
+  color: #17bed2;
+}
+
 .progress-box .progress-bar {
   transition-duration: 2000ms;
   transition-property: all;
@@ -534,11 +539,15 @@ fieldset[disabled] .btn-theme {
 
 /* Navbar Logo */
 .header .logo {
-  width: 200px;
-  height: 200px;
+  /* width: 200px;
+  height: 200px; */
+  width: 300px;
+  height: 300px;
   float: left;
-  max-height: 95px;
-  line-height: 65px;
+  /* max-height: 95px;
+  line-height: 65px; */
+  max-height: 125px;
+  line-height: 105px;
 }
 
 .header .logo-wrap {
