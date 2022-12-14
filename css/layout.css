@@ -292,6 +292,10 @@ fieldset[disabled] .btn-theme {
   color: #17bed2;
   background-color: #515769;
 } */
+.progress-box > h1 > i{
+  color: #17bed2;
+  padding: 10px;
+}
 
 .devicon-javascript-plain {
   color: #17bed2;
