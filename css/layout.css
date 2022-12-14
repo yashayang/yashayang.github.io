@@ -283,7 +283,7 @@ fieldset[disabled] .btn-theme {
   box-shadow: none;
   height: 3px;
 }
-.progress-box {
+/* .progress-box {
   background-color: #17bed2;
 }
 
@@ -291,6 +291,11 @@ fieldset[disabled] .btn-theme {
   font-size: 60px;
   color: #17bed2;
   background-color: #515769;
+} */
+
+.devicon-javascript-plain {
+  color: #17bed2;
+  padding: 10px;
 }
 
 .progress-box .progress-bar {
