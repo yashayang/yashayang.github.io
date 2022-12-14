@@ -818,7 +818,8 @@ fieldset[disabled] .btn-theme {
 
 .swiper-clients-img {
   display: block;
-  width: 130px;
+  /* width: 130px; */
+  width: 80px;
   height: auto;
   margin: 0 auto;
   opacity: 1;
