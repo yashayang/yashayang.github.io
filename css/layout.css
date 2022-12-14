@@ -283,10 +283,14 @@ fieldset[disabled] .btn-theme {
   box-shadow: none;
   height: 3px;
 }
+.progress-box {
+  background-color: #17bed2;
+}
 
 .progress-box .skills-icon {
   font-size: 60px;
   color: #17bed2;
+  background-color: #515769;
 }
 
 .progress-box .progress-bar {
