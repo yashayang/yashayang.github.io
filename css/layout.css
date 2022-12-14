@@ -844,6 +844,7 @@ fieldset[disabled] .btn-theme {
 .skills-wrapper {
   text-decoration: none;
   list-style-type: none;
+  display:inline;
 }
 
 .skills-icon {
