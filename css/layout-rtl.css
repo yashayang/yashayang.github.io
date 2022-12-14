@@ -776,14 +776,17 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 .swiper-slider {
   position: relative;
-  width: 50%;
-  height: 50%;
+  /* width: 50%;
+  height: 50%; */
   /* overflow: hidden; */
+  width: 100px;
+  margin-right: 0px;
+  display: inline !important;
 }
 
 .swiper-clients-img {
   display: block;
-  width: 70px;
+  width: 50px;
   height: auto;
   margin: 0 auto;
   opacity: 1;
