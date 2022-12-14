@@ -811,32 +811,38 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 .swiper-slider {
   position: relative;
-  /* width: 50%;
-  height: 50%; */
-  /* overflow: hidden; */
+  width: 50%;
+  height: 50%;
+  overflow: hidden;
   width: 50px;
   margin-right: 0px;
 }
 
 .swiper-clients-img {
   display: block;
-  /* width: 130px; */
-  width: 50px;
+  width: 130px;
   height: auto;
-  /* margin: 0 auto; */
-  /* opacity: 1; */
-  /* cursor: pointer;
+  margin: 0 auto;
+  opacity: 1;
+  cursor: pointer;
   transition-duration: 200ms;
   transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1); */
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
-/* .swiper-clients-img:hover {
+.swiper-clients-img:hover {
   opacity: .8;
   transition-duration: 200ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
-} */
+}
+
+/*------------------------------------------------------------------
+    [Swiper Slider]
+------------------------------------------------------------------*/
+.skills-wrapper {
+  
+}
 
 /*------------------------------------------------------------------
   	[Text Colors]
